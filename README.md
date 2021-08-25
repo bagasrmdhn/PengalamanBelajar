@@ -11,4 +11,4 @@ Mulai melakukan studi independen bersama dicoding
 
 25 Agustus 2021
 - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (progress 37%)
-- Belajar Dasar Git dengan GitHub (progress 38%)
+- Belajar Dasar Git dengan GitHub (progress 39%)
